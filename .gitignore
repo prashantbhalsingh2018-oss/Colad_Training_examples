@@ -1,0 +1,29 @@
+# Python .gitignore for Jupyter Notebooks and Google Colab
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C Extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+*.ipynb
+
+# Google Colab specific
+.colab/
+
+# Python virtual environments
+venv/
+.env
