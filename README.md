@@ -1,15 +1,6 @@
-# Colab Training Examples
+# Colad Training Examples
 
-This repository is dedicated to storing Python code and Jupyter notebooks used in various training sessions and workshops conducted via Google Colab.
-
-## Project Description
-
-The primary goal of this project is to provide a centralized location for all scripts and notebooks that facilitate learning Python programming and data science concepts. It serves as a resource for anyone interested in enhancing their skills using interactive coding environments.
-
-## Contents
-
-- **Python Scripts:** A collection of Python scripts (.py files) that cover various topics and exercises.
-- **Jupyter Notebooks:** Interactive notebooks that allow users to run Python code in cells, visualize data, and document findings.
+Training examples and inference notebooks for fine-tuned LLaMA models using Unsloth.
 
 ## Getting Started
 
